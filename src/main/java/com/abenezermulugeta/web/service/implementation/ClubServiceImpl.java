@@ -12,9 +12,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @Service
-@RequiredArgsConstructor
 public class ClubServiceImpl implements ClubService {
 
+    @Autowired
     private ClubRepository clubRepository;
 
     @Override
