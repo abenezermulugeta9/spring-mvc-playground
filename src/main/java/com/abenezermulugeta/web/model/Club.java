@@ -1,4 +1,4 @@
-package com.abenezermulugeta.web.models;
+package com.abenezermulugeta.web.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

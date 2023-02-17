@@ -1,6 +1,6 @@
 package com.abenezermulugeta.web.repository;
 
-import com.abenezermulugeta.web.models.Club;
+import com.abenezermulugeta.web.model.Club;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
